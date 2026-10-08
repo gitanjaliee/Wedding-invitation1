@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Our Wedding | A & R</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- HERO -->
+    <header class="hero">
+
+        <div class="hero-overlay"></div>
+
+        <div class="hero-content">
+
+            <p class="eyebrow">TOGETHER WITH THEIR FAMILIES</p>
+
+            <h1>
+                kirti
+                <span>&</span>
+                suraj
+            </h1>
+
+            <p class="invite-text">
+                We invite you to celebrate the beginning
+                of our forever.
+            </p>
+
+            <div class="date">
+                <span>18</span>
+                <div>
+                    <strong>DECEMBER</strong>
+                    <small>2026</small>
+                </div>
+            </div>
+
+            <a href="#events" class="primary-btn">
+                Explore Our Wedding
+            </a>
+
+        </div>
+
+        <div class="scroll-down">
+            <span>SCROLL</span>
+            <div></div>
+        </div>
+
+    </header>
+
+
+    <!-- INTRO -->
+    <section class="intro">
+
+        <p class="section-label">A NEW BEGINNING</p>
+
+        <h2>
+            Two hearts,<br>
+            <em>one beautiful journey.</em>
+        </h2>
+
+        <p class="intro-text">
+            With the blessings of our families and the love
+            of our friends, we are beginning a new chapter
+            together. Your presence will make our celebration
+            even more special.
+        </p>
+
+    </section>
+
+
+    <!-- COUPLE -->
+    <section class="couple">
+
+        <div class="couple-card">
+            <div class="initial">A</div>
+
+            <h3> kirti mesharam </h3>
+
+            <p>
+                Daughter of<br>
+                Mr. & Mrs. mesharam
+            </p>
+        </div>
+
+        <div class="ampersand">&</div>
+
+        <div class="couple-card">
+            <div class="initial">R</div>
+
+            <h3>suraj meshram</h3>
+
+            <p>
+                Son of<br>
+                Mr. & Mrs. mesharam
+            </p>
+        </div>
+
+    </section>
+
+
+    <!-- COUNTDOWN -->
+    <section class="countdown-section">
+
+        <p class="section-label">THE BIG DAY</p>
+
+        <h2>Counting down to forever</h2>
+
+        <div class="countdown">
+
+            <div class="count-box">
+                <strong id="days">00</strong>
+                <span>DAYS</span>
+            </div>
+
+            <div class="count-box">
+                <strong id="hours">00</strong>
+                <span>HOURS</span>
+            </div>
+
+            <div class="count-box">
+                <strong id="minutes">00</strong>
+                <span>MINUTES</span>
+            </div>
+
+            <div class="count-box">
+                <strong id="seconds">00</strong>
+                <span>SECONDS</span>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- EVENTS -->
+    <section class="events" id="events">
+
+        <div class="section-heading">
+            <p class="section-label">CELEBRATIONS</p>
+
+            <h2>Our wedding events</h2>
+
+            <p>
+                Four beautiful moments, one unforgettable celebration.
+            </p>
+        </div>
+
+
+        <div class="event-grid">
+
+            <article class="event-card">
+                <span class="event-number">01</span>
+
+                <div class="event-icon">✦</div>
+
+                <h3>Haldi</h3>
+
+                <p class="event-date">
+                    7 December 2026 · 10:00 AM
+                </p>
+
+                <p>
+                    A morning filled with sunshine,
+                    laughter and blessings.
+                </p>
+            </article>
+
+
+            <article class="event-card">
+                <span class="event-number">02</span>
+
+                <div class="event-icon">❋</div>
+
+                <h3>Mehndi</h3>
+
+                <p class="event-date">
+                    7 December 2026 · 7:00 PM
+                </p>
+
+                <p>
+                    An evening of music, mehandi
+                    and beautiful memories.
+                </p>
+            </article>
+
+
+            <article class="event-card">
+                <span class="event-number">03</span>
+
+                <div class="event-icon">♪</div>
+
+                <h3>Sangeet</h3>
+
+                <p class="event-date">
+                    8 December 2026 · 7:30 PM
+                </p>
+
+                <p>
+                    mehandi, haldi, Dance, music and celebrations
+                    with the people we love.
+                </p>
+            </article>
+
+
+            <article class="event-card featured-event">
+                <span class="event-number">04</span>
+
+                <div class="event-icon">♡</div>
+
+                <h3>Wedding</h3>
+
+                <p class="event-date">
+                    9 December 2026 · 8:00 PM
+                </p>
+
+                <p>
+                    The moment our forever officially begins.
+                </p>
+            </article>
+
+        </div>
+
+    </section>
+
+
+    <!-- VENUE -->
+    <section class="venue">
+
+        <div class="venue-content">
+
+            <p class="section-label">THE VENUE</p>
+
+            <h2>Where we say<br><em>I do.</em></h2>
+
+            <h3>The Royal Garden</h3>
+
+            <p>
+                Vijay Nagar, Indore<br>
+                Madhya Pradesh, India
+            </p>
+
+            <a
+                href="https://www.google.com/maps/search/?api=1&query=Vijay+Nagar+Indore"
+                target="_blank"
+                class="outline-btn"
+            >
+                Get Directions
+            </a>
+
+        </div>
+
+    </section>
+
+    <!-- RSVP -->
+    <section class="rsvp">
+
+        <p class="section-label">YOUR PRESENCE MATTERS</p>
+
+        <h2>Will you join us?</h2>
+
+        <p>
+            We would love to celebrate this special day with you.
+        </p>
+
+        <button class="primary-btn" id="rsvpButton">
+            RSVP Now
+        </button>
+
+    </section>
+
+
+    <!-- FOOTER -->
+    <footer>
+
+        <div class="footer-names">
+            kirti <span>&</span> suraj
+        </div>
+        <p>
+            Made with love · 9.12.2026
+        </p>
+    </footer>
+    <script src="script.js"></script>
+
+</body>
+</html>
